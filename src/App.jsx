@@ -3,7 +3,7 @@ function App() {
 
   return (
     <>
-      <h1>Net Banking</h1>
+      <h1 className="text-center">Net Banking</h1>
     </>
   )
 }
